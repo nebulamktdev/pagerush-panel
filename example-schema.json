@@ -1,0 +1,63 @@
+{
+  "sections": [
+    {
+      "type": "hero",
+      "headline": "Transforme seu negócio com nossa solução",
+      "subheadline": "A plataforma mais completa para gerenciar suas operações e crescer de forma sustentável",
+      "ctaText": "Começar agora",
+      "ctaLink": "#",
+      "background": "#f0f9ff"
+    },
+    {
+      "type": "proof",
+      "items": ["Google", "Microsoft", "Amazon", "Meta", "Tesla"]
+    },
+    {
+      "type": "benefits",
+      "title": "Por que escolher nossa solução?",
+      "items": [
+        {
+          "title": "Fácil de usar",
+          "desc": "Interface intuitiva que qualquer pessoa pode dominar em minutos"
+        },
+        {
+          "title": "Resultados rápidos",
+          "desc": "Veja resultados concretos em menos de 30 dias"
+        },
+        {
+          "title": "Suporte dedicado",
+          "desc": "Equipe especializada disponível 24/7 para ajudar você"
+        }
+      ]
+    },
+    {
+      "type": "process",
+      "title": "Como funciona",
+      "steps": [
+        "Crie sua conta em menos de 2 minutos",
+        "Configure suas preferências personalizadas",
+        "Comece a usar imediatamente",
+        "Acompanhe resultados em tempo real"
+      ]
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "name": "Maria Silva",
+          "text": "Essa ferramenta mudou completamente minha forma de trabalhar. Aumentei minha produtividade em 300%!"
+        },
+        {
+          "name": "João Santos",
+          "text": "Depois de testar várias soluções, finalmente encontrei a perfeita. Recomendo demais!"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Pronto para começar?",
+      "button": "Criar conta grátis",
+      "link": "#"
+    }
+  ]
+}
